@@ -1,0 +1,22 @@
+div{
+    background-color: chartreuse;
+    border-radius: 5px;
+    width: 55%;
+    margin: auto;
+}
+div.about{
+    background-color: aqua;
+    border-radius: 5px;
+    width:40%;
+    margin-left: 5px;
+}
+h1{
+    background-color: darkgreen;
+    color: antiquewhite;
+    text-align: Center;
+}
+p{
+}
+div.image{
+    align-content: right;
+}
