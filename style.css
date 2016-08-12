@@ -1,22 +1,54 @@
-div{
+div.main{
     background-color: chartreuse;
-    border-radius: 5px;
-    width: 55%;
+    border-radius: 10px;
+    border:aqua;
+    width: 600px;
     margin: auto;
+    height:500px;
 }
 div.about{
     background-color: aqua;
     border-radius: 5px;
-    width:40%;
-    margin-left: 5px;
+    width:62%;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+img{
+    border-radius: 20px;
+    border:2px solid whitesmoke;
+    float: right;
 }
 h1{
+
     background-color: darkgreen;
     color: antiquewhite;
     text-align: Center;
+    border-radius: 10px;
+    margin: 2px;
 }
-p{
+p.info{
+    text-align: center;
+    border-radius: 10px;
 }
-div.image{
-    align-content: right;
+u{
+    background-color: darksalmon;
+}
+div.email{
+    background-color: darkviolet;
+    width: 100px;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 10px;
+    float: right;
+}
+div.abc{
+    background-color: tan;
+    text-align: right;
+    margin-left:0px;
+    padding: 2px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+div.xyz{
+    margin-left: 68%;
 }

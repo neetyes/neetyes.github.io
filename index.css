@@ -1,0 +1,15 @@
+div{
+    background-color: blueviolet;
+    text-align: center;
+    height: 640px;
+}
+h2{
+    background-color: deeppink;
+    padding: 10px;
+}
+#email {
+    background-color: aqua;
+    height: 20px;
+    margin-top: 44%;
+    padding: 2px;
+}
